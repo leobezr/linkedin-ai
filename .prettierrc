@@ -1,0 +1,14 @@
+{
+  "prettier/prettier": [
+    "error",
+    {
+      "singleQuote": true,
+      "parser": "flow",
+      "endOfLine": "lf",
+      "prettier/prettier": "error",
+      "arrow-body-style": "on",
+      "prefer-arrow-callback": "on",
+      "semi": true
+    }
+  ]
+}
